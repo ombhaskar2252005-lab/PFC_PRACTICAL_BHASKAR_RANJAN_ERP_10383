@@ -1,4 +1,6 @@
 #include <stdio.h>
+// Bhaskar Ranjan 
+// ERP 10383 
 int main () {
     int pin = 1111;
     int enteredPin;
@@ -22,3 +24,7 @@ int main () {
     return 0; 
 
 }
+// OUTPUT 
+// Enter ATM PIN: 1234
+// Incorrect PIN. You have 2 attempt(s) left. Try again: 1111
+// PIN accepted. You can now access your account.
