@@ -1,4 +1,6 @@
 #include <stdio.h>
+// name: Bhaskar Ranjan
+// ERP : 10383
 int main() {
     int a,b;
     printf("Enter value of a and b: ");
@@ -8,3 +10,11 @@ int main() {
     }
     return 0;
 }
+// output:
+// Enter value of a and b: 5 10
+// 5
+// 6
+// 7
+// 8
+// 9
+// 10
