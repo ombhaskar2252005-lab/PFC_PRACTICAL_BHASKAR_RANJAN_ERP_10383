@@ -1,3 +1,5 @@
+// name: Bhaskar Ranjan
+// ERP : 10383
 #include <stdio.h>
 int sum_of_digits(int n) {
     int sum = 0;
@@ -15,3 +17,6 @@ int main() {
     printf("Sum of digits: %d\n", result);
     return 0;
 }
+//output:
+// Enter an integer: 12345
+// Sum of digits: 15

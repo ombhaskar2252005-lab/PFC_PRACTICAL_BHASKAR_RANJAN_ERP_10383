@@ -1,3 +1,5 @@
+// name: Bhaskar Ranjan
+// ERP : 10383
 #include <stdio.h>
 void printTriangle(int n) {
     for (int i = 1; i <= n; i++) {
@@ -15,3 +17,10 @@ int main() {
     return 0;
 
 }
+//output:
+// Enter height: 5
+// * 
+// * *
+// * * *
+// * * * *
+// * * * * *

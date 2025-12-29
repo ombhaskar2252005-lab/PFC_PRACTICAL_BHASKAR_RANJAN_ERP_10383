@@ -1,3 +1,5 @@
+// name: Bhaskar Ranjan
+// ERP : 10383
 #include <stdio.h>
 
 void swap(int *a, int *b){
@@ -18,3 +20,7 @@ int main() {
     
     return 0;
 }
+//output:
+// Enter two integers: 5 10
+// Before swapping: num1 = 5, num2 = 10
+// After swapping: num1 = 10, num2 = 5
