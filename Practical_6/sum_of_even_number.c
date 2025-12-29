@@ -1,3 +1,5 @@
+// name: Bhaskar Ranjan
+// ERP : 10383
 #include <stdio.h>
 int main() {
     int n, m, sum = 0;
@@ -12,3 +14,6 @@ int main() {
     printf("Sum of even numbers = %d\n", sum);
     return 0;
 }
+// output:
+// Enter a positive integer: 1 10
+// Sum of even numbers = 30
