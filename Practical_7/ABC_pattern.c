@@ -1,3 +1,5 @@
+// name: Bhaskar Ranjan
+// ERP : 10383
 #include <stdio.h>
 int main () {
     int i, j;
@@ -16,3 +18,8 @@ int main () {
     return 0;
 
 }
+// output:
+// A
+// A B
+// A B C
+// A B C D
